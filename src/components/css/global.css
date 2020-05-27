@@ -1,0 +1,34 @@
+body {
+  font-size: 14px !important;
+  background-color: #ffcea8 !important;
+}
+
+.titles {
+  margin: 20px 0;
+  padding-left: 39px;
+}
+
+input[type="button"] {
+  padding: 5px;
+  font-size: 14px;
+  margin: 16px;
+}
+
+input[type="text"]:not(#search),
+input[type="email"] {
+  float: right;
+  margin-top: -3px;
+  background-color: transparent;
+  width: 60%;
+}
+
+.addContainer {
+  border: solid;
+  padding-top: 20px;
+}
+
+.addContainer > div {
+  display: flex;
+  justify-content: space-between;
+  padding: 4px 25px;
+}

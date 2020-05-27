@@ -1,0 +1,12 @@
+.todo {
+  display: flex;
+  border: solid 2px #588da8;
+  margin-bottom: 20px;
+  justify-content: space-between;
+  padding: 6px;
+}
+
+.todoTitles {
+  padding-right: 6px;
+  font-weight: bold;
+}

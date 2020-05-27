@@ -1,0 +1,10 @@
+.post {
+  border: solid 2px #588da8;
+  margin-bottom: 20px;
+  padding: 6px;
+}
+
+.postTitles {
+  padding-right: 6px;
+  font-weight: bold;
+}

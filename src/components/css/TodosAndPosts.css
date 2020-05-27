@@ -1,0 +1,12 @@
+.todosAndPosts {
+  width: 350px;
+}
+
+.titlesContainer {
+  display: flex;
+  justify-content: space-around;
+}
+.todosAndPostsWrapper {
+  border: solid black 2px;
+  padding: 20px 20px 0 20px;
+}

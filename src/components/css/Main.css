@@ -1,0 +1,33 @@
+.app {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.usersContainer {
+  display: flex;
+  flex-direction: column;
+  border: solid black;
+  border-radius: 43px;
+  padding: 20px;
+  height: max-content;
+}
+
+#search {
+  background-color: transparent;
+}
+
+.searchContainer {
+  align-self: center;
+}
+
+.addContainer {
+  border: solid;
+  padding-top: 20px;
+}
+
+.addContainer > div {
+  display: flex;
+  justify-content: space-between;
+  padding: 4px 25px;
+}
